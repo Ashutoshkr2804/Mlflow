@@ -1,1 +1,6 @@
-# Mlflow
+![Screenshot (30)](https://github.com/Ashutoshkr2804/Mlflow/assets/137825664/d9145643-29f2-4171-931b-7c035e77b90b)
+![Screenshot (34)](https://github.com/Ashutoshkr2804/Mlflow/assets/137825664/858ccc46-414a-412d-8371-1be1b5534430)
+![Screenshot (35)](https://github.com/Ashutoshkr2804/Mlflow/assets/137825664/8b8668ce-ea01-474a-ac45-962d60cba9ca)
+![Screenshot (31)](https://github.com/Ashutoshkr2804/Mlflow/assets/137825664/636715e3-2d0e-439a-a8e9-06efbc05ffd0)
+![Screenshot (32)](https://github.com/Ashutoshkr2804/Mlflow/assets/137825664/63f64972-548b-4d8b-bad1-63328d3ed4d6)
+![Screenshot (33)](https://github.com/Ashutoshkr2804/Mlflow/assets/137825664/3de87bf9-260f-4dc8-99a0-c2227134c958)
