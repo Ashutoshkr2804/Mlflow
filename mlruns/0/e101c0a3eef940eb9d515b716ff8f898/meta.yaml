@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ashutosh/my_project/Assign3.2/Mlflow/mlruns/0/e101c0a3eef940eb9d515b716ff8f898/artifacts
+end_time: 1690198431692
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e101c0a3eef940eb9d515b716ff8f898
+run_name: carefree-ray-602
+run_uuid: e101c0a3eef940eb9d515b716ff8f898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690198430235
+status: 3
+tags: []
+user_id: ashutosh

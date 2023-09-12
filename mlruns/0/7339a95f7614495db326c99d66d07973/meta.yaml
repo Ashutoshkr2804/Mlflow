@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ashutosh/my_project/Assign3.2/Mlflow/mlruns/0/7339a95f7614495db326c99d66d07973/artifacts
+end_time: 1690190589006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7339a95f7614495db326c99d66d07973
+run_name: polite-loon-181
+run_uuid: 7339a95f7614495db326c99d66d07973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690190585740
+status: 3
+tags: []
+user_id: ashutosh

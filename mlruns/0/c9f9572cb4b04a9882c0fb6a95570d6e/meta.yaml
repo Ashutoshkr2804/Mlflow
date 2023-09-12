@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ashutosh/my_project/Assign3.2/Mlflow/mlruns/0/c9f9572cb4b04a9882c0fb6a95570d6e/artifacts
+end_time: 1690191950555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9f9572cb4b04a9882c0fb6a95570d6e
+run_name: dazzling-shoat-383
+run_uuid: c9f9572cb4b04a9882c0fb6a95570d6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690191946344
+status: 3
+tags: []
+user_id: ashutosh

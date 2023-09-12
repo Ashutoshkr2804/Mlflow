@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ashutosh/my_project/Assign3.2/Mlflow/mlruns/0/c12390b8be5d43578ed6150b9bc04b4c/artifacts
+end_time: 1690198416202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c12390b8be5d43578ed6150b9bc04b4c
+run_name: amusing-conch-364
+run_uuid: c12390b8be5d43578ed6150b9bc04b4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690198414586
+status: 3
+tags: []
+user_id: ashutosh
